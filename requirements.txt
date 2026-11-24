@@ -1,0 +1,8 @@
+@"
+pandas
+scikit-learn
+matplotlib
+seaborn
+joblib
+jupyter
+"@ | Set-Content requirements.txt -Encoding utf8
